@@ -1,0 +1,7 @@
+# See docs at: https://mystmd.org
+version: 1
+project:
+  title: 量潮工作意图
+  description: 量潮工作意图（quanttide-intention）— 意图资产文档站
+  toc:
+    - file: index.md
