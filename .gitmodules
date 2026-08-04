@@ -1,0 +1,12 @@
+[submodule "default/company"]
+	path = default/company
+	url = https://github.com/quanttide/quanttide-intention-of-business-entity.git
+[submodule "data"]
+	path = data
+	url = https://github.com/quanttide/quanttide-intention-of-data-engineering.git
+[submodule "pay"]
+	path = pay
+	url = https://github.com/quanttide/quanttide-intention-of-payment-engineering.git
+[submodule "human"]
+	path = human
+	url = https://github.com/quanttide/quanttide-intention-of-human-resources.git
