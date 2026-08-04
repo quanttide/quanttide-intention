@@ -1,14 +1,13 @@
 # 量潮工作意图
 
-## 意图板块
+## 意图子仓库
 
-| 板块 | 意图主题 | 入口 |
-|------|---------|------|
-| 量潮科技管理 | 治理思想平台化、内部资产管理、战略管理 | 待填充 |
-| 量潮数据 | 规模化与平台、客户资产、数据工程标准、增长 | 待填充 |
-| 量潮课堂 | 自学平台（课程云/学习云）、课程体系 | 待填充 |
-| 量潮云 | 资产云、执行云、支持云、创新管理、写作云、元工程 | 待填充 |
-| 量潮招聘 | 序列轨道与筛选标准 | 待填充 |
+| 路径 | 意图 | 仓库 |
+|------|------|------|
+| `default/company` | 公司意图（业务实体） | quanttide-intention-of-business-entity |
+| `data/` | 数据工程意图 | quanttide-intention-of-data-engineering |
+| `pay/` | 支付工程意图 | quanttide-intention-of-payment-engineering |
+| `human/` | 人力资源意图 | quanttide-intention-of-human-resources |
 
 ## 意图分层
 
@@ -18,8 +17,8 @@ journal（事实层）→ intention（意图层）→ intro（叙事层）
 
 - 意图文档记录"我们要什么、为什么"
 - 细节与执行留在 journal 与各工程仓库
-- 意图更新方向单向：journal → intention
+- 更新方向单向：journal → intention
 
 ## 元工程
 
-工作意图是元工程体系的关键资产：AI 生成 + 人类整理，人机长期对齐的载体。详见 qtcloud 板块的元工程意图。
+工作意图是元工程体系的关键资产：AI 生成 + 人类整理，人机长期对齐的载体。
