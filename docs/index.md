@@ -4,10 +4,10 @@
 
 | 路径 | 意图 | 仓库 |
 |------|------|------|
-| `default/company` | 公司意图（业务实体） | quanttide-intention-of-business-entity |
-| `data/` | 数据工程意图 | quanttide-intention-of-data-engineering |
-| `pay/` | 支付工程意图 | quanttide-intention-of-payment-engineering |
-| `human/` | 人力资源意图 | quanttide-intention-of-human-resources |
+| `assets/default/company` | 公司意图（业务实体） | quanttide-intention-of-business-entity |
+| `assets/data/` | 数据工程意图 | quanttide-intention-of-data-engineering |
+| `assets/pay/` | 支付工程意图 | quanttide-intention-of-payment-engineering |
+| `assets/human/` | 人力资源意图 | quanttide-intention-of-human-resources |
 
 ## 意图分层
 
