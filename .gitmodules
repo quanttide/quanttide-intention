@@ -10,3 +10,6 @@
 [submodule "human"]
 	path = assets/human
 	url = https://github.com/quanttide/quanttide-intention-of-human-resources.git
+[submodule "assets/market"]
+	path = assets/market
+	url = https://github.com/quanttide/quanttide-intention-of-market-management.git

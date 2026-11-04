@@ -11,6 +11,7 @@ quanttide-intention/
 ├── assets/              → 意图子仓库（git submodule）
 │   ├── default/company  → 公司意图（quanttide-intention-of-business-entity）
 │   ├── data/            → 数据工程意图（quanttide-intention-of-data-engineering）
+│   ├── market/          → 营销管理意图（quanttide-intention-of-market-management）
 │   ├── pay/             → 支付工程意图（quanttide-intention-of-payment-engineering）
 │   └── human/           → 人力资源意图（quanttide-intention-of-human-resources）
 ├── docs/                → 意图导航文档站（MyST）
